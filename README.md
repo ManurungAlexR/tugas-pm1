@@ -27,7 +27,7 @@ NIM   : 312010478
             echo json_encode (array(' RESPONSE gti 'FATLED"));
         echo "GAGAL";
         
-        
+.  
 2. API TAMBAH
 
 <?php
